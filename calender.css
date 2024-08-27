@@ -1,0 +1,35 @@
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 30px;
+    
+ 
+
+}
+table{
+    width: 100%;
+
+}
+td{
+    text-align: center;
+
+
+}
+tr :hover{
+    background-color: yellow;
+}
+.header1{
+    color: red;
+}
+th{
+    background-color: darkgrey;
+}
+caption{
+    text-transform: uppercase;
+}
+h1{
+    text-align: center;
+}
+#bday{
+    background-color: palevioletred;
+}
